@@ -1,30 +1,63 @@
-# Gizlilik Politikası 
+# Gizlilik Politikası
 
+**Son güncelleme:** 20 Temmuz 2026
 
+BiKelime, İngilizce kelime öğreten bir mobil uygulamadır. Bu politika,
+uygulamayı kullanırken hangi verilerin işlendiğini açıklar.
 
+## Kısa özet
 
+- Uygulama **giriş yapmadan tamamen kullanılabilir.** Bu durumda tüm
+  verileriniz yalnızca cihazınızda kalır ve bize ulaşmaz.
+- **İsteğe bağlı** olarak Google hesabınızla giriş yaparsanız, öğrenme
+  ilerlemenizi cihazlar arasında yedeklemek için Google (Firebase)
+  sunucularında saklarız.
+- Verilerinizi hiçbir üçüncü tarafla, reklam amacıyla veya başka bir amaçla
+  paylaşmayız veya satmayız.
 
-**Son güncelleme:** 13 Temmuz 2026
+## Giriş yapmadan kullanım
 
-## Özet
+Uygulama hesap açmayı zorunlu tutmaz. Giriş yapmadığınızda öğrenme
+ilerlemeniz (öğrendiğiniz kelimeler, quiz sonuçlarınız, favori listeniz,
+seviye seçiminiz, ayarlarınız ve uygulama kullanım süreniz) **yalnızca
+kendi cihazınızda** saklanır ve bize veya herhangi bir üçüncü tarafa
+iletilmez.
 
-BiKelime, tamamen çevrimdışı çalışan bir İngilizce kelime öğrenme
-uygulamasıdır. **Hiçbir kişisel veri toplamaz, saklamaz veya üçüncü
-taraflarla paylaşmaz.**
+## Google hesabıyla giriş (isteğe bağlı)
 
-## Toplanan veriler
+İlerlemenizi yedeklemek ve yeni bir cihaza taşımak isterseniz Google
+hesabınızla giriş yapabilirsiniz. Bu durumda aşağıdaki veriler işlenir:
 
-Uygulama hesap açmanızı gerektirmez ve hiçbir kişisel bilgi istemez.
+- **E-posta adresiniz ve Google hesap adınız** — sizi tanımlamak ve
+  hesabınızı yönetmek için.
+- **Hesap kimliğiniz** (Google/Firebase tarafından atanan kullanıcı
+  kimliği) — verilerinizi yalnızca size ait olacak şekilde ilişkilendirmek
+  için.
+- **Öğrenme ilerlemeniz** — öğrendiğiniz kelimeler, tekrar programınız,
+  favorileriniz ve benzeri çalışma verileri; cihazlar arasında eşitlemek
+  için.
 
-Öğrenme ilerlemeniz (öğrendiğiniz kelimeler, quiz sonuçlarınız, favori
-listeniz, uygulama içi ayarlarınız ve uygulama kullanım süreniz) **yalnızca
-kendi cihazınızda** saklanır. Bu veriler bize veya herhangi bir üçüncü
-tarafa iletilmez.
+Bu veriler, hizmet sağlayıcımız **Google Firebase** (Firebase
+Authentication ve Cloud Firestore) altyapısında saklanır. Aktarım sırasında
+şifrelenir (HTTPS/TLS). Verileriniz yalnızca sizin hesabınıza bağlıdır;
+güvenlik kuralları gereği başka hiçbir kullanıcı bunlara erişemez.
 
-## İnternet erişimi
+## Verilerin paylaşımı
 
-Uygulamanın temel işlevleri internet bağlantısı gerektirmez. Telaffuz
-seslendirmesi cihazınızın kendi metin-okuma (TTS) motoruyla yapılır.
+Verilerinizi hiçbir üçüncü tarafla paylaşmıyor, satmıyor veya reklam
+amacıyla kullanmıyoruz. Yukarıda belirtilen veriler yalnızca uygulamanın
+kendi işlevleri (yedekleme ve eşitleme) için işlenir.
+
+## Verilerinizin silinmesi
+
+- **Giriş yapmadıysanız:** Tüm veriler cihazınızda olduğu için uygulamayı
+  kaldırmanız bütün verilerinizi kalıcı olarak siler.
+- **Giriş yaptıysanız:** Uygulama içindeki **Profil → Hesabımı sil**
+  seçeneğiyle hesabınızı ve buluttaki tüm verilerinizi kalıcı olarak
+  silebilirsiniz. Dilerseniz `bikelimedestek@gmail.com` adresine e-posta
+  göndererek de silme talebinde bulunabilirsiniz; talebiniz en geç 30 gün
+  içinde işleme alınır. Ayrıntılar için:
+  [Hesap ve Veri Silme](./account-deletion.html)
 
 ## Bildirimler
 
@@ -34,18 +67,20 @@ istediğiniz zaman kapatabilirsiniz.
 
 ## Çocukların gizliliği
 
-Uygulama veri toplamadığı için 13 yaş altı kullanıcılardan da herhangi bir
-veri toplanmaz.
+Uygulama 13 yaş altı çocuklara yönelik değildir ve bilerek bu yaş grubundan
+kişisel veri toplamaz.
 
-## Verilerinizin silinmesi
+## İnternet erişimi
 
-Tüm veriler cihazınızda olduğundan, uygulamayı kaldırmanız bütün
-verilerinizi kalıcı olarak siler.
+Kelime öğrenme, sözlük, quiz ve okuma özellikleri internet olmadan çalışır.
+Telaffuz seslendirmesi cihazınızın kendi metin-okuma (TTS) motoruyla
+yapılır. İnternet yalnızca isteğe bağlı giriş ve yedekleme için kullanılır.
 
 ## Değişiklikler
 
-Bu politika değişirse güncel sürüm bu sayfada yayınlanır.
+Bu politika değişirse güncel sürüm bu sayfada yayınlanır ve "Son güncelleme"
+tarihi yenilenir.
 
 ## İletişim
 
-Sorularınız için: bikelimedestek@gmail.com
+Sorularınız ve talepleriniz için: **bikelimedestek@gmail.com**
